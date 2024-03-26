@@ -1,0 +1,1 @@
+Counter({'Hello world\n': 1, 'Hello Python\n': 1, 'Hi Wylie': 1})
